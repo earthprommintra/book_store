@@ -1,9 +1,12 @@
-Book Store - ระบบจัดการร้านหนังสือออนไลน์
-ระบบจัดการร้านหนังสือออนไลน์ที่พัฒนาด้วย PHP และ MySQL พร้อมระบบ Admin Panel สำหรับจัดการสินค้า ผู้ใช้ และคำสั่งซื้อ
---------------------------------------------------------------------------------------------------------------
-Demo : http://prommintra-bookstore.42web.io
-Account ทดสอบ
+Book Store
+ระบบจัดการร้านหนังสือออนไลน์ที่พัฒนาด้วย PHP และ MySQL พร้อม Admin Panel
+Live Demo: http://prommintra-bookstore.42web.io
+Admin Account
+
 Username: Admin
 Password: 123456789
+
+User Account
+
 Username: R15
 Password: 555666
