@@ -2,7 +2,7 @@ Book Store
 ------------
 ระบบจัดการร้านหนังสือออนไลน์ที่พัฒนาด้วย PHP และ MySQL พร้อม Admin Panel
 
-Live Demo: http://prommintra-bookstore.42web.io
+Live Demo: http://prommintra-bookstore.42web.io/book_store/login.php
 
 --Admin Account--
 
