@@ -29,7 +29,7 @@ Dashboard ภาพรวมระบบ,
 Tech Stack
 ---------------------------------------------
 
-Backend: PHP 7.4+
+Backend: PHP 
 
 Database: MySQL
 
